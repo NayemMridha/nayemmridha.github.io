@@ -1,0 +1,5 @@
+# Final public URL: https://nayemmridha.github.io/
+User-agent: *
+Allow: /
+
+Sitemap: https://nayemmridha.github.io/sitemap.xml
