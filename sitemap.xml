@@ -1,15 +1,7 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Final public URL: https://nayemmridha.github.io/ -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nayemmridha.github.io/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://nayemmridha.github.io/nayem-mridha.jpg</image:loc>
-      <image:title>Nayem Mridha</image:title>
-      <image:caption>Nayem Mridha, civil engineering researcher and MSc student in Civil and Hydraulic Engineering at Tongji University, Shanghai.</image:caption>
-    </image:image>
   </url>
 </urlset>
